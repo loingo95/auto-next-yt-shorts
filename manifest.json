@@ -3,7 +3,7 @@
   "name": "Auto-Next YouTube Shorts",
   "version": "1.0",
   "description": "Auto-Next YouTube Shorts when video loops.",
-  "permissions": ["storage", "scripting"],
+  "permissions": ["storage"],
   "action": {
     "default_popup": "popup.html"
   },

@@ -50,7 +50,6 @@ auto-next-shorts/
 This extension only uses the following permissions:
 
 - `storage`: to save your toggle preference
-- `scripting`: to inject scripts into the Shorts page
 
 **No tracking, ads, or analytics included.**
 
